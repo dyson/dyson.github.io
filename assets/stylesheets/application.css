@@ -11,6 +11,7 @@ body {
   background-position: right top;
   background-attachment: fixed;
   height: 100%;
+  will-change : transform;
 }
 
 h1 {
