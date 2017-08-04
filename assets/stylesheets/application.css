@@ -7,11 +7,10 @@ body {
   font-family: 'Roboto Slab', serif;
   background-image: url('/assets/images/dyson-avatar.svg');
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: contain;
   background-position: right top;
   background-attachment: fixed;
   height: 100%;
-  will-change : transform;
 }
 
 h1 {
